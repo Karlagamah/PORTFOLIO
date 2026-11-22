@@ -7,9 +7,9 @@ Portfolio personnel présentant mon parcours, mes compétences, mes projets et m
 
 ##  Vidéo de présentation
 
- **[Regarder la vidéo de démonstration](./20261122-0320-53.8719128.mp4)**
+ **[▶ Regarder la vidéo de démonstration](https://drive.google.com/file/d/VOTRE_ID_ICI/view?usp=sharing)**
 
-> La vidéo se trouve à la racine du projet. Vous pouvez la lire directement en cliquant sur le lien ci-dessus (si GitHub ne la lit pas, téléchargez-la ou ouvrez-la localement).
+> La vidéo de présentation est hébergée sur Google Drive. Cliquez sur le lien ci-dessus pour la visionner.
 
 ---
 
@@ -55,7 +55,6 @@ PORTFOLIO/
 │   └── projet3.png         # Capture du Système de Gestion Universitaire
 ├── Documents/
 │   └── cv.pdf              # CV au format PDF
-├── 20261122-0320-53.8719128.mp4  # Vidéo de présentation du portfolio
 └── README.md               # Ce fichier
 ```
 
